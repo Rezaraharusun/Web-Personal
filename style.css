@@ -12,10 +12,10 @@
 }
 
 :root {
-    --bg-color: #080808;
-    --second-bg-color: #131313;
-    --text-color: white;
-    --main-color: #00ffee;
+    --bg-color: #040D12;
+    --second-bg-color: #080808;
+    --text-color: #78A083;
+    --main-color: #50727B;
 }
 
 html{
@@ -44,7 +44,7 @@ body{
 
 .logo {
     font-size: 3rem;
-    color: var(--text-color);
+    color: whitesmoke;
     font-weight: 800;
     cursor: pointer;
     transition: 0.3s;
@@ -146,7 +146,7 @@ span {
 .home-content p {
     font-size: 1.5rem;
     font-weight: 500;
-    line-height: 1.0;
+    line-height: 1.5;
     max-width: 1000px;
     color: whitesmoke;
 }
