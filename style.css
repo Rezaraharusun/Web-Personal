@@ -60,7 +60,7 @@ body{
 
 .navbar a {
     font-size: 1.8rem;
-    color: var(--text-color);
+    color: whitesmoke;
     margin-left: 4rem;
     font-weight: 500;
     transition: 0.5 ease;
@@ -463,6 +463,7 @@ span {
 
 .testimonials {
     background: var(--second-bg-color);
+    color: whitesmoke;
 }
 
 .testimonials-box {
