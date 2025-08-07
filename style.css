@@ -70,7 +70,7 @@ body{
 .navbar a:hover,
 .navbar a:active{
     color: var(--text-color);
-    border-bottom: 3px solid var(--main-color);
+    border-bottom: 3px solid var(--bg-color);
 }
 
 #menu-icon {
